@@ -2,6 +2,6 @@
 
 coming soon...
 
-`psvl-tools` · `myarchetype` · `circles` · `sovereign`
+`psvl-tools` · `sovereign` · `myarchetype` · `circles`
 
 </div>
