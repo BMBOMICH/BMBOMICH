@@ -2,6 +2,6 @@
 
 coming soon...
 
-`psvl-tools` · `myarchetype` · `circles` · `sovereign` . `audit-trail`
+`psvl-tools` · `myarchetype` · `circles` · `sovereign`
 
 </div>
