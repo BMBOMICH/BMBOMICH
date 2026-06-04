@@ -1,7 +1,5 @@
 <div align="center">
 
-### BMBOMICH
-
 *i usually skip this part*
 
 ---
