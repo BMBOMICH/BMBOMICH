@@ -1,6 +1,4 @@
-for now i will keep this emtpy i dont know what to write here yet
-
-second username: BAMBOMIK (for users who dont know how to speak english)
+This README.md ins't finalized yet. I will post random stuff here.
 
 SovrenOS probably gonna get finished in 11-16 days (stay tuned as its planned to be a general purpose os)
 
