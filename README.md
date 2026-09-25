@@ -1,4 +1,4 @@
-This README.md ins't finalized yet. I will post random stuff here.
+This README.md isn't finalized yet. I will post random stuff here.
 
 SovrenOS probably gonna get finished in 11-16 days (stay tuned as its planned to be a general purpose os)
 
