@@ -12,3 +12,5 @@ it will feel so sweet to prove you lazy pieces of shit that all of you idiots ar
 <img width="708" height="354" alt="image" src="https://github.com/user-attachments/assets/b1c54748-73cf-4b9c-9789-a763b9f9b322" />
 
 stupid humans you idiots dont even deserve my language i may make sovren's license even more stricter to dmca repos from specific people that piss me off. all of you idiots will pay for what you said
+
+i may eventually delete what i said
