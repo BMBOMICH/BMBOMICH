@@ -1,4 +1,6 @@
-This README.md isn't finalized yet. I will post random stuff here.
+### Hi, I'm BMBOMICH (or just BM)
+
+I'm a non-developer who uses AI to create stuff.
 
 Sovren 0.1.0 and PSVL 1.1 will be released either in December or January.
 
