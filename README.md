@@ -1,4 +1,4 @@
-### Hi, I'm BMBOMICH/BAMBOMIK (or just BM)
+### Hi, I'm BMBOMICH (or just BM)
 
 I'm a non-developer who uses AI to create stuff.
 
